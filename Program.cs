@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+
 //Programa da lista de LP, letra j e k
 Console.WriteLine("Quantos lados tem o polígono?");
 int.TryParse(Console.ReadLine(), out int lados);
